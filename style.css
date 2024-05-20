@@ -1,0 +1,35 @@
+html {
+    background-color: hsl(228, 36%, 81%);
+}
+
+.wrapper {
+    background-color: white;
+    margin-top: 5rem;
+    width: 290px;
+    padding: 18px;
+    height: 460px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Outfit", sans-serif;
+    border-radius: 10px 10px 10px 10px;
+}
+
+h2 {
+    color: black;
+    margin-top: 1rem;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 600;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+.QR img {
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
